@@ -1,9 +1,9 @@
 {
-  "name": "ngx-quill",
+  "name": "@nakedcreativity/ngx-quill",
   "license": "MIT",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "author": {
-    "name": "Bengt Weiße"
+    "name": "Jordan Chitty"
   },
   "description": "An angular (>= v2) component for the easy use of the QuillJS richt text editor.",
   "bugs": "https://github.com/KillerCodeMonkey/ngx-quill/issues",
@@ -85,6 +85,9 @@
   "contributors": [
     {
       "name": "Bengt Weiße"
+    },
+    {
+      "name": "Jordan Chitty"
     }
   ]
 }

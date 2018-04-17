@@ -22,8 +22,7 @@ import {
 import { Inject } from '@angular/core';
 import { DOCUMENT } from '@angular/platform-browser';
 
-import * as QuillNamespace from 'quill';
-let Quill: any = QuillNamespace;
+import Quill from 'quill';
 
 export interface CustomOption {
   import: string;
